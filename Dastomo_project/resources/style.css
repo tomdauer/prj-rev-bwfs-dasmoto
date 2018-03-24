@@ -1,0 +1,47 @@
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url(pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes .hacksaw-price {
+  color: blue;
+  font-weight: bold;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.frames .frame-price {
+  color: blue;
+  font-weight: bold;
+}
+
+.paint h2 {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.paint .paint-price {
+  color: blue;
+  font-weight: bold;
+}
